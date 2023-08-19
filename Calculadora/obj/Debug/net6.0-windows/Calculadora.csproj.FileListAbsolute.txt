@@ -1,0 +1,49 @@
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+D:\Documents\talle_cal\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\informatica\Documents\Nueva carpeta\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\informatica\Documents\rama nicolas\taller1_calculadora\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
